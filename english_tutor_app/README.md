@@ -27,3 +27,9 @@ Puedes: Realiza una pregunta acerca de los pronombres y después pide que te cre
 3.  **Acceder a la aplicación:**
 
     Abre tu navegador y ve a `http://localhost:5000`
+
+## Screenshots
+
+![Step 1](step01.png)
+![Step 2](step02.png)
+![Step 3](step03.png)
