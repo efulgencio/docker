@@ -2,6 +2,8 @@
 
 Esta es una simple aplicación de tutor de inglés creada con Flask.
 
+Puedes: Realiza una pregunta acerca de los pronombres y después pide que te cree un examen acerca de ese tema.
+
 ## Cómo levantar el contenedor
 
 ### Prerrequisitos
